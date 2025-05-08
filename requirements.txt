@@ -1,0 +1,7 @@
+langchain
+langgraph-supervisor
+openai
+google-generativeai
+anthropic
+deepseek
+python-dotenv
